@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518587451397",
+    "project_id": "trabalhadores-3dd6f",
+    "storage_bucket": "trabalhadores-3dd6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518587451397:android:be0810e428956cba20f46c",
+        "android_client_info": {
+          "package_name": "com.trabalhoreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518587451397-mau6gikkrflee9nf93k4362i2qamou18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSlscFyRBzOCBTorZz3BkNrHQXYb5RJtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518587451397-mau6gikkrflee9nf93k4362i2qamou18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
